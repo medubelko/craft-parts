@@ -71,7 +71,7 @@ UV_PYTHON
 ~~~~~~~~~
 **Default value:** ``${PARTS_PYTHON_INTERPRETER}``
 
-The version of Python that uv should use. See :ref:`Python plugin environment
+The version of Python that uv should use. See :external+craft-parts:ref:`Python plugin environment
 variables <craft_parts_python_plugin-environment_variables>` for more
 information.
 
